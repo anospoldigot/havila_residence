@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="title" content="Havilla - Residence">
+    <meta name="keywords" content="Havilla Residence">
     <meta name="description" content="Hunian yang berlokasi strategis di daerah bogor, Disini Kalian akan merasakan dekat dengan fasilitas tanpa harus keluar dari area perumahan dengan terpenuhinya fasilitas yang tersedia kami menjamin kenyamanan dan keamanan semua">
     <link rel="stylesheet" href="./style.css">
     <title>Havilla Residence</title>
