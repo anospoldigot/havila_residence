@@ -94,7 +94,7 @@
         <div class="grid grid-cols-2 gap-8 py-8 px-6 md:grid-cols-3">
             <div class="hidden lg:block">
             </div>
-            <div class="col-span-full lg:col-span-1">
+            <div class="col-span-3 lg:col-span-1">
                 <!-- <h2 class="mb-6 text-sm font-semibold text-gray-700 uppercase">Help center</h2> -->
                 <ul class="text-gray-700">
                     <li class="mb-6">
