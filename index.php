@@ -40,14 +40,14 @@
                 </div>
             </div>
         </nav>
-        <div class="h-screen">
+        <div class="min-h-screen">
             <div class="h-full bg-primary flex items-center">
-                <div class="grid grid-cols 1 lg:grid-cols-2 mx-12 lg:mx-40 gap-x-20 gap-y-12">
+                <div class="grid grid-cols-1 lg:grid-cols-2 mx-12 lg:mx-40 gap-x-20 gap-y-12 py-20 lg:py-10">
                     <div>
-                        <img src="assets/house1.jpg" alt="" class="h-full object-cover">
+                        <img src="assets/house9.jpeg" alt="" class="h-full object-cover">
                     </div>
                     <div>
-                        <img src="assets/house2.jpg" alt="" class="h-full object-cover">
+                        <img src="assets/house8.jpeg" alt="" class="h-full object-cover">
                     </div>
                 </div>
             </div>
