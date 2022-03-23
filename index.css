@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,500;0,600;0,800;0,900;1,100;1,200;1,300;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.fw-600{
+    font-weight: 600;
+}
+
+.my-5rem{
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+}
+
+.link:hover{
+    color: #969292;
+    text-decoration: underline;
+}
+
+.hero{
+    background-color: #1A1E68;
+    min-heigth: 100vh
+}
