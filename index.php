@@ -38,8 +38,8 @@
                 </div>
             </div>
     </header>
-    <main class="">
-        <section class="container" id="why">
+    <main class="container">
+        <section class="" id="why">
             <div class="text-center text-uppercase">
                 <h3 class="fw-600">Kenapa harus havilla residence</h3>
             </div>
