@@ -53,7 +53,7 @@
                 </div>
             </div>
         </section>
-        <section id="image mb-5">
+        <section id="gallery">
             <div class="mb-5">
                 <div class="row justify-content-center mb-5">
                     <div class="col-lg-4 lg:col-span-2">
