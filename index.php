@@ -72,26 +72,20 @@
     <footer class="bg-light py-4 d-block d-lg-flex justify-content-center">
                 <ul class="" style="list-style: none;">
                     <li class="mb-4">
-                        <a href="https://api.whatsapp.com/send?phone=081318980599" class="text-decoration-none text-dark link">
+                        <a href="https://api.whatsapp.com/send?phone=6281318980599" class="text-decoration-none text-dark link">
                             <img src="assets/whatsapp.png" alt="" width="30" class="me-3">
                             0813-1898-0599
                             </a>
                     </li>
                     <li class="mb-4">
-                        <a href="https://www.instagram.com/havila_residence" class="text-decoration-none text-dark link">
+                        <a href="https://www.instagram.com/havilaresidence.id" class="text-decoration-none text-dark link">
                             <img src="assets/instagram.png" alt="" width="30" class="me-3">
                             havila_residence
                         </a>
                     </li>
                     <li class="mb-4">
-                        <a href="https://www.instagram.com/havila_residence/" class="text-decoration-none text-dark link">
-                            <img src="assets/youtube.png" alt="" width="30" class="me-3">
-                            havila_residence
-                            </a>
-                    </li>
-                    <li class="mb-4">
-                        <a href="https://twitter.com/havila_residence" class="text-decoration-none text-dark link">
-                            <img src="assets/twitter.png" alt="" width="30" class="me-3">
+                        <a href="https://www.instagram.com/havilaresidence.id" class="text-decoration-none text-dark link">
+                            <img src="assets/tiktok.png" alt="" width="30" class="me-3">
                             havila_residence
                         </a>
                     </li>
