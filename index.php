@@ -275,13 +275,13 @@
                         <li class="mb-4">
                             <a href="https://www.instagram.com/havilaresidence.id" class="text-decoration-none text-dark link">
                                 <img src="assets/img/instagram.png" alt="" width="30" class="me-3">
-                                havila_residence
+                                @havilaresidence.id
                             </a>
                         </li>
                         <li class="mb-4">
-                            <a href="https://www.instagram.com/havilaresidence.id" class="text-decoration-none text-dark link">
+                            <a href="www.tiktok.com/@havilaresidence" class="text-decoration-none text-dark link">
                                 <img src="assets/img/tiktok.png" alt="" width="30" class="me-3">
-                                havila_residence
+                                @havilaresidence
                             </a>
                         </li>
                     </ul>
