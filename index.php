@@ -166,7 +166,7 @@
                 </div> -->
                 <div class="row justify-content-center g-0">
                     <div class="col-lg-4">
-                        <a class="portfolio-box" href="assets/img/imag1.jpeg" title="Project Name">
+                        <a class="portfolio-box" href="assets/img/imag1.jpeg" title="Havila Residence">
                             <img class="img-fluid" src="assets/img/imag1.jpeg" alt="...">
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Havila Residence</div>
@@ -175,7 +175,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4">
-                        <a class="portfolio-box" href="assets/img/imag2.jpeg" title="Project Name">
+                        <a class="portfolio-box" href="assets/img/imag2.jpeg" title="Havila Residence">
                             <img class="img-fluid" src="assets/img/imag2.jpeg" alt="...">
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Havila Residence</div>
@@ -184,7 +184,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4">
-                        <a class="portfolio-box" href="assets/img/imag4.jpeg" title="Project Name">
+                        <a class="portfolio-box" href="assets/img/imag4.jpeg" title="Havila Residence">
                             <img class="img-fluid" src="assets/img/imag4.jpeg" alt="...">
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Havila Residence</div>
@@ -193,7 +193,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4">
-                        <a class="portfolio-box" href="assets/img/map1.jpeg" title="Project Name">
+                        <a class="portfolio-box" href="assets/img/map1.jpeg" title="Havila Residence">
                             <img class="img-fluid" src="assets/img/map1.jpeg" alt="..." style="height: max-content;">
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Havila Residence</div>
@@ -202,7 +202,7 @@
                         </a>
                     </div>
                     <!-- <div class="col-lg-4">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg" title="Project Name">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg" title="Havila Residence">
                             <img class="img-fluid" src="assets/img/image3.jpeg" alt="...">
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Havila Residence</div>
@@ -211,7 +211,7 @@
                         </a>
                     </div> -->
                     <div class="col-lg-4">
-                        <a class="portfolio-box" href="assets/img/map2.jpeg" title="Project Name">
+                        <a class="portfolio-box" href="assets/img/map2.jpeg" title="Havila Residence">
                             <img class="img-fluid" src="assets/img/map2.jpeg" alt="...">
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Havila Residence</div>
