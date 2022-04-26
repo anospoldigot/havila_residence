@@ -164,22 +164,58 @@
                         </a>
                     </div>
                 </div> -->
-                <div class="row mx-0 g-5 justify-content-center">
+                <div class="row justify-content-center g-0">
                     <div class="col-lg-4">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg" title="Project Name">
-                            <img class="img-fluid" src="assets/img/map1.jpeg" alt="..."">
+                        <a class="portfolio-box" href="assets/img/imag1.jpeg" title="Project Name">
+                            <img class="img-fluid" src="assets/img/imag1.jpeg" alt="...">
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Havila Residence</div>
+                                <div class="project-name">Gallery</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg" title="Project Name">
-                            <img class="img-fluid" src="assets/img/map2.jpeg" alt="..."">
+                        <a class="portfolio-box" href="assets/img/imag2.jpeg" title="Project Name">
+                            <img class="img-fluid" src="assets/img/imag2.jpeg" alt="...">
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Havila Residence</div>
+                                <div class="project-name">Gallery</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4">
+                        <a class="portfolio-box" href="assets/img/imag4.jpeg" title="Project Name">
+                            <img class="img-fluid" src="assets/img/imag4.jpeg" alt="...">
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Havila Residence</div>
+                                <div class="project-name">Gallery</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4">
+                        <a class="portfolio-box" href="assets/img/map1.jpeg" title="Project Name">
+                            <img class="img-fluid" src="assets/img/map1.jpeg" alt="..." style="height: max-content;">
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Havila Residence</div>
+                                <div class="project-name">Gallery</div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- <div class="col-lg-4">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg" title="Project Name">
+                            <img class="img-fluid" src="assets/img/image3.jpeg" alt="...">
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Havila Residence</div>
+                                <div class="project-name">Gallery</div>
+                            </div>
+                        </a>
+                    </div> -->
+                    <div class="col-lg-4">
+                        <a class="portfolio-box" href="assets/img/map2.jpeg" title="Project Name">
+                            <img class="img-fluid" src="assets/img/map2.jpeg" alt="...">
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Havila Residence</div>
+                                <div class="project-name">Gallery</div>
                             </div>
                         </a>
                     </div>
